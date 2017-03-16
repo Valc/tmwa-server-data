@@ -107,4 +107,5 @@ import: npc/055-3/_import.txt
 import: npc/056-2/_import.txt
 import: npc/057-1/_import.txt
 import: npc/060-1/_import.txt
+import: npc/065-1/_import.txt
 import: npc/botcheck/_import.txt
