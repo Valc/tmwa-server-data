@@ -1,5 +1,5 @@
 // This file is generated automatically. All manually added changes will be removed when running the Converter.
-// Lost island Shop mobs
+// Lost Island Shop mobs
 
 // This file is generated automatically. All manually added changes will be removed when running the Converter.
 // Casa de Isla Secreta mobs
