@@ -1,6 +1,7 @@
 // This file is generated automatically. All manually added changes will be removed when running the Converter.
-// Lost island warps
+// Lost island Shop warps
 
 // This file is generated automatically. All manually added changes will be removed when running the Converter.
-// Isla perdida warps
+// Casa de Isla Secreta warps
 
+066-2,17,16|warp|-1,-1,066-1,93,40

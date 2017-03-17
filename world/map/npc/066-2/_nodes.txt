@@ -1,6 +1,7 @@
 // This file is generated automatically. All manually added changes will be removed when running the Converter.
-// Lost island warps
+// Lost island Shop nodes
 
 // This file is generated automatically. All manually added changes will be removed when running the Converter.
-// Isla perdida warps
+// Casa de Isla Secreta nodes
 
+// (no nodes)
