@@ -1,4 +1,4 @@
-// Map 065-1: 065-1
+// Map 065-1: No Name Island
 // This file is generated automatically. All manually added changes will be removed when running the Converter.
 map: 065-1
 npc: npc/065-1/_mobs.txt
