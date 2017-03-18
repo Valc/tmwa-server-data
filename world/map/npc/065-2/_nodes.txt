@@ -1,4 +1,4 @@
 // This file is generated automatically. All manually added changes will be removed when running the Converter.
-// No Name Island warps
+// No Name Cave nodes
 
-065-1,63,55|warp|-1,-1,065-2,102,84
+// (no nodes)
