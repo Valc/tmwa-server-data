@@ -5,7 +5,7 @@
 // Isla perdida mobs
 
 066-1,98,134,7,5|monster|TheLost|1073,1,3000ms,0ms
-066-1,83,21,7,5|monster|AngrySeaSlime|1109,15,1500ms,0ms
+066-1,0,0,0,0|monster|AngrySeaSlime|1109,15,1500ms,0ms
 066-1,144,160,2,1|monster|ManaGhost|1125,1,3000ms,0ms
 066-1,133,36,3,1|monster|Mouboo|1028,4,300ms,0ms
 066-1,0,0,0,0|monster|Pinkie|1018,18,20ms,0ms

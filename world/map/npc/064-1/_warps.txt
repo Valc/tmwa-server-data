@@ -1,3 +1,4 @@
 // This file is generated automatically. All manually added changes will be removed when running the Converter.
 // Kingdom Island warps
 
+064-1,48,174|warp|-1,-1,066-1,101,111
