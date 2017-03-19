@@ -4,3 +4,4 @@
 // This file is generated automatically. All manually added changes will be removed when running the Converter.
 // Isla warps
 
+060-1,17,16|warp|-1,-1,066-1,101,111
