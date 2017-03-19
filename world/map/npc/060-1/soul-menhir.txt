@@ -2,7 +2,7 @@
 
 060-1,15,30,0|script|Soul Menhir#meleisland|502
 {
-    set @map$, "065-1";
+    set @map$, "060-1";
     setarray @Xs, 14, 15, 16, 14, 51, 14, 56;
     setarray @Ys, 29, 29, 30, 30, 30, 31, 31;
     set @x, 0;

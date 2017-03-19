@@ -1,6 +1,6 @@
 //95,110
 
-065-1,50,67,0|script|Soul Menhir#nonameisland|501
+065-1,50,67,0|script|Soul Menhir#noname|501
 {
     set @map$, "065-1";
     setarray @Xs, 49, 50, 51, 49, 51, 49, 51;
