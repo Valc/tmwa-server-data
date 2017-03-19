@@ -4,6 +4,6 @@
 // This file is generated automatically. All manually added changes will be removed when running the Converter.
 // Isla mobs
 
-060-1,41,25,7,5|monster|Dragon|1701,1,300ms,0ms
-060-1,17,26,7,5|monster|RedSlime|1008,15,300ms,0ms
-060-1,22,15,7,5|monster|DemonicMouboo|1104,2,300ms,0ms
+060-1,41,25,7,5|monster|Dragon|1701,1,3000ms,0ms
+060-1,17,26,7,5|monster|RedSlime|1008,15,1500ms,0ms
+060-1,22,15,7,5|monster|DemonicMouboo|1104,2,3000ms,0ms
