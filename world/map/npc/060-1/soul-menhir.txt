@@ -1,10 +1,10 @@
-//53,40
+//50,67
 
-066-1,95,110,0|script|Soul Menhir#lostisland|500
+060-1,15,30,0|script|Soul Menhir#meleisland|502
 {
-    set @map$, "066-1";
-    setarray @Xs, 94, 95, 96, 94, 96, 94, 96;
-    setarray @Ys, 109, 109, 109, 110, 110, 111, 111;
+    set @map$, "065-1";
+    setarray @Xs, 14, 15, 16, 14, 51, 14, 56;
+    setarray @Ys, 29, 29, 30, 30, 30, 31, 31;
     set @x, 0;
     set @y, 0;
     callfunc "SoulMenhir";
