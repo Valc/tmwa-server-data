@@ -1,0 +1,16 @@
+// This file is generated automatically. All manually added changes will be removed when running the Converter.
+// Dark Woodland Hills nodes
+
+1055-1,0,0,0|script|Node1055-1|32767
+{
+    end;
+OnInit:
+    setarray .m$, "_N-Pumpkin", "1055-1", "1055-1", "1055-1";
+    setarray .x1, "_N-Pumpkin", 129, 41, 133;
+    setarray .y1, "_N-Pumpkin", 23, 22, 27;
+    setarray .x2, "_N-Pumpkin", 135, 47, 139;
+    setarray .y2, "_N-Pumpkin", 26, 30, 33;
+    setarray .id, "_N-Pumpkin", 0, 0, 0;
+    donpcevent "_N-Pumpkin::OnMaybeStart";
+    destroy;
+}

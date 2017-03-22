@@ -1,0 +1,16 @@
+// This file is generated automatically. All manually added changes will be removed when running the Converter.
+// Dark Woodland mobs
+
+1010-1,82,63,19,19|monster|BlackSlime|1719,1,10000ms,0ms
+1010-1,49,71,31,19|monster|Moonshroom|1130,1,10000ms,30000ms
+1010-1,0,0,0,0|monster|TreasureBox|1718,30,50ms,0ms
+1010-1,0,0,0,0|monster|Larvern|1087,20,50ms,0ms
+1010-1,0,0,0,0|monster|BlueSpark|1080,45,50ms,0ms
+1010-1,0,0,0,0|monster|RedSpark|1081,40,100ms,0ms
+1010-1,0,0,0,0|monster|DemonicMouboo|1104,15,0ms,0ms
+1010-1,0,0,0,0|monster|MauvePlant|1029,3,270000ms,180000ms
+1010-1,0,0,0,0|monster|CobaltPlant|1030,1,2700000ms,1800000ms
+1010-1,0,0,0,0|monster|Silkworm|1035,2,60000ms,30000ms
+1010-1,0,0,0,0|monster|CloverPatch|1037,2,0ms,1000ms
+1010-1,0,0,0,0|monster|ViciousSquirrel|1105,25,30ms,0ms
+1010-1,0,0,0,0|monster|ManaGhost|1125,10,30ms,0ms

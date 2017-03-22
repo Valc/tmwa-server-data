@@ -77,7 +77,7 @@
 
 // Red Dragon skills
 // Summons up to 4 Fire Lizards
-1722,RedDragon@NPC_SUMMONSLAVE_demonicspiritX1,any,198,1,10000,1000,10000,no,self,slavelt,4,1039,0,0,0,0,
+1722,RedDragon@NPC_SUMMONSLAVE_demonicspiritX2,any,198,2,10000,10,5000,no,self,slavelt,7,1101,0,0,0,0,
 
 // Smoke Dragon skills
 // Summons lots of Black Scorpions and a few Black Mambas when low on health
