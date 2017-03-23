@@ -2,9 +2,9 @@
 // Dark Woodland mobs
 
 1016-1,0,0,0,0|monster|CloverPatch|1037,2,100000ms,30000ms
-1016-1,0,0,0,0|monster|ManaGhost|1125,10,30ms,0ms
-1016-1,0,0,0,0|monster|ViciousSquirrel|1105,30,20ms,0ms
-1016-1,0,0,0,0|monster|DemonicMouboo|1104,5,0ms,0ms
+1016-1,0,0,0,0|monster|ManaGhost|1125,5,9000ms,18000ms
+1016-1,0,0,0,0|monster|ViciousSquirrel|1105,15,9000ms,18000ms
+1016-1,0,0,0,0|monster|DemonicMouboo|1104,5,9000ms,18000ms
 1016-1,0,0,0,0|monster|MauvePlant|1029,3,0ms,0ms
 1016-1,0,0,0,0|monster|MauvePlant|1029,4,270000ms,180000ms
 1016-1,0,0,0,0|monster|CobaltPlant|1030,3,0ms,0ms
