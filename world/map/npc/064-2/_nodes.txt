@@ -1,5 +1,4 @@
 // This file is generated automatically. All manually added changes will be removed when running the Converter.
-// Kingdom Island warps
+// Kingdom Cave nodes
 
-064-1,49,174|warp|-1,-1,066-1,62,43
-064-1,109,126|warp|0,-1,066-1,96,165
+// (no nodes)
