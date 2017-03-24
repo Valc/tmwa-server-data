@@ -76,13 +76,13 @@
 1122,TheDreadPirateMarley@NPC_SUMMONSLAVE,any,198,2,8000,1000,5000,no,self,slavelt,1,1123,0,0,0,0,
 
 // Red Dragon skills
-// Summons up to 4 Fire Lizards
-1722,RedDragon@NPC_SUMMONSLAVE_demonicspiritX2,any,198,2,10000,10,5000,no,self,slavelt,7,1101,0,0,0,0,
+// Summons up to 2 Demonic Spirits
+1722,RedDragon@NPC_SUMMONSLAVE_demonicspiritX2,any,198,2,10000,10,5000,no,self,slavelt,2,1101,0,0,0,0,
 
 // Smoke Dragon skills
 // Summons lots of Black Scorpions and a few Black Mambas when low on health
 1723,SmokeDragon@NPC_SUMMONSLAVE_blackscorpionX5,any,198,4,10000,100,12000,no,self,slavele,13,1009,0,0,0,0,
-1723,SmokeDragon@NPC_SUMMONSLAVE_blackmambaX2,any,198,2,10000,2000,15000,no,self,myhpltmaxrate,25,1121,3,0,0,0,
+1723,SmokeDragon@NPC_SUMMONSLAVE_blackmambaX2,any,198,2,10000,2000,15000,no,self,myhpltmaxrate,25,1721,3,0,0,0,
 
 // Golden Scorpion skills
 // Summons a few Yellow Slimes and up to 2 fellow Golden Scorpions when low on health
