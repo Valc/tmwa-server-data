@@ -1,6 +1,6 @@
 //
 
-009-1,39,43,0|script|Pinac|600
+1009-1,30,42,0|script|Pinac|600
 {
     mes "[Pinac]";
     mes "\"Wellcome Padrik!\"";
